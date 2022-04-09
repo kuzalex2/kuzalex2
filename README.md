@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexey Kuznetsov (@kuzalex2)
-- 👀 I’m interested in video streaming, mobile development and Flutter
+- 👀 I’m interested in video streaming technologies, mobile development and Flutter
 
 - 📫 How to reach me - email to me@kuzalex.com
 
